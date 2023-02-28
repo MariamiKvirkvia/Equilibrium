@@ -1,0 +1,83 @@
+body{
+    background-color: #0D192C;
+}
+.main{
+    max-width: 350px;
+    width: 100%;
+    background-color: #15263F;
+    border-radius: 15px;
+    margin: 152px auto;
+}
+
+.content{
+    padding: 24px;
+}
+
+.main-img{
+    max-width: 302px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+h1{
+    color: #FFFFFF;
+    padding-top: 24px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.content p{
+    color: #8BACD9;
+    padding-top: 16px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.time{
+    display: flex;
+    padding-top: 24px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.time img{
+    padding-right: 7px;
+}
+
+.path{
+    display: flex;
+    align-items: center;
+    color: #00FFF8;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.daysLeft{
+    display: flex;
+    align-items: center;
+    color: #8BACD9;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.author{
+    display: flex;
+    padding-top: 42px;
+    align-items: center;
+}
+
+.author img{
+    padding-right: 16px;
+}
+
+.author p{
+    padding: 0;
+    color: #8BACD9;
+}
+
+.line{
+    width: 302px;
+    height: 1px;
+    background-color: #2E405A;
+    margin-top: 24px;
+}
